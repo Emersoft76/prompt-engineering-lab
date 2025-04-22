@@ -6,7 +6,7 @@ Abaixo, você encontra orientações específicas para cada sistema e como confi
 ---
 
 ## ✅ Compatibilidade Geral
-
+```
 | Ferramenta / Tecnologia | Windows | Linux (Ubuntu/Debian) | MacOS |
 |--------------------------|----------|------------------------|------=-|
 | Python 3.10+             | ✅      | ✅                     | ✅    |
@@ -16,7 +16,7 @@ Abaixo, você encontra orientações específicas para cada sistema e como confi
 | Streamlit                | ✅      | ✅                     | ✅    |
 | Git                      | ✅      | ✅                     | ✅    |
 | VS Code                  | ✅      | ✅                     | ✅    |
-
+```
 ---
 
 ## ⚙️ Instruções por sistema
