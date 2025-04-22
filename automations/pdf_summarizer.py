@@ -27,3 +27,5 @@ if __name__ == "__main__":
     resumo = summarize_text(content)
     print("\nResumo gerado:\n")
     print(resumo)
+
+Instale a dependência adicional: pip install PyPDF2
