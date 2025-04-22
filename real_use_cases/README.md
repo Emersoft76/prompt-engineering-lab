@@ -24,13 +24,13 @@ python nome_do_script.py
 ```
 ---
 
-## 💻 Compatibilidade de Sistemas
+## 💻 Compatibilidade dos Scripts
 
-| Sistema Operacional | Compatível? | Observações                      |
-|----------------------|:-----------:|----------------------------------|
-| Windows (PowerShell) |     ✅      | Recomendado uso com VS Code      |
-| Linux (Ubuntu/Debian)|     ✅      | Totalmente suportado via terminal|
-| macOS                |     ✅      | Suporte via Homebrew             |
+| Sistema   | Suporte |
+|-----------|:-------:|
+| Windows   |   ✅    |
+| Linux     |   ✅    |
+| MacOS     |   ✅    |
 
 ---
 
