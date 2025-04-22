@@ -117,9 +117,9 @@ Resposta técnica clara, mencionando O(1) como complexidade.
 
 ---
 
-📘 Referências
+## 📘 Referências
 
-* OpenAI Cookbook
+* [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
 * Prompt Engineering Guide
 
