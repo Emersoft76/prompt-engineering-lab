@@ -11,10 +11,13 @@ pip install langchain openai python-dotenv streamlit
 ```
 ---
 
-📘 Exemplos
-Arquivo | Descrição
-chatbot_streamlit.py | Mini chatbot com memória e interface web via Streamlit
-memory_examples.py | Execução local com buffer de memória para rastrear o histórico
+## 📘 Exemplos
+
+| Arquivo                | Descrição                                                             |
+|------------------------|-----------------------------------------------------------------------|
+| `chatbot_streamlit.py` | Mini chatbot com memória e interface web via Streamlit                |
+| `memory_examples.py`   | Execução local com buffer de memória para rastrear o histórico        |
+
 ---
 
 ## 🚀 Executar chatbot (interface web)
