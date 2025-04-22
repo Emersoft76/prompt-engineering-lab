@@ -1,5 +1,5 @@
 **Script simples para gerar e-mails automáticos via OpenAI**
-```python
+
 import openai
 import os
 from dotenv import load_dotenv
