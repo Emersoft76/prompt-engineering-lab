@@ -62,7 +62,7 @@ streamlit run streamlit_app/app.py
 ```
 ---
 
-## 🍏 MacOS (via Homebrew)
+🍏 MacOS (via Homebrew)
 ```
 brew install python
 pip3 install openai streamlit langchain python-dotenv requests
