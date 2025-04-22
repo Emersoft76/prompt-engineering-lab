@@ -135,4 +135,4 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 ---
 
 
-<!-- FOOTER --> <p align="center"> <strong>“From structured prompts to intelligent automation, connectivity is the key.”</strong><br> Desenvolvido por <a href="https://github.com/Emersoft76"><strong>@Emersoft76</strong></a><br> <em>Formado em Gerenciamento de Redes de Computadores – UNIP (Brasília/Brasil), 2009</em><br> <em>Soluções modernas com base sólida em redes, cloud, automação e inteligência artificial.</em> </p> ```
+<!-- FOOTER --> <p align="center"> <strong>“From structured prompts to intelligent automation, connectivity is the key.”</strong><br> Desenvolvido por <a href="https://github.com/Emersoft76"><strong>@Emersoft76</strong></a><br> <em>Formado em Gerenciamento de Redes de Computadores – UNIP (Brasília/Brasil), 2009</em><br> <em>Soluções modernas com base sólida em redes, cloud, automação e inteligência artificial.</em> </p>
