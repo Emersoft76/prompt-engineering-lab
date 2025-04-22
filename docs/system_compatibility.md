@@ -8,14 +8,14 @@ Abaixo, você encontra orientações específicas para cada sistema e como confi
 ## ✅ Compatibilidade Geral
 ```
 | Ferramenta / Tecnologia | Windows | Linux (Ubuntu/Debian) | MacOS |
-|--------------------------|----------|------------------------|------=-|
-| Python 3.10+             | ✅      | ✅                     | ✅    |
-| pip                      | ✅      | ✅                     | ✅    |
-| OpenAI API Key           | ✅      | ✅                     | ✅    |
-| LangChain                | ✅      | ✅                     | ✅    |
-| Streamlit                | ✅      | ✅                     | ✅    |
-| Git                      | ✅      | ✅                     | ✅    |
-| VS Code                  | ✅      | ✅                     | ✅    |
+|-------------------------|---------|-----------------------|-------|
+| Python 3.10+            | ✅      | ✅                   | ✅   |
+| pip                     | ✅      | ✅                   | ✅   |
+| OpenAI API Key          | ✅      | ✅                   | ✅   |
+| LangChain               | ✅      | ✅                   | ✅   |
+| Streamlit               | ✅      | ✅                   | ✅   |
+| Git                     | ✅      | ✅                   | ✅   |
+| VS Code                 | ✅      | ✅                   | ✅   |
 ```
 ---
 
