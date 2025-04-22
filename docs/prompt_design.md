@@ -47,7 +47,7 @@ Traduza o seguinte texto para o inglês: "A IA está mudando o mundo."
 
 ---
 
-## 📘 Dica
+## 📘 Dicas
 
 * Pequenas mudanças no prompt podem gerar grandes diferenças na resposta.
 * Teste, ajuste e compare versões com objetivos claros.
