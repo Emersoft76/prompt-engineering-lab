@@ -49,8 +49,8 @@ Traduza o seguinte texto para o inglês: "A IA está mudando o mundo."
 
 ## 📘 Dica
 
-    Pequenas mudanças no prompt podem gerar grandes diferenças na resposta.
-    Teste, ajuste e compare versões com objetivos claros.
+* Pequenas mudanças no prompt podem gerar grandes diferenças na resposta.
+* Teste, ajuste e compare versões com objetivos claros.
 
 Para exemplos reais, veja: real_world_cases.md
 
