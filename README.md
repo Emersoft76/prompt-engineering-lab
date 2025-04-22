@@ -26,27 +26,72 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 
 ---
 
-## 📁 Estrutura do Projeto / Project Structure
+## 📚 Índice Geral
+
+### 🧠 Conceitos e Configurações Iniciais
+
+- [`📄 introduction.md`](docs/introduction.md)
+- [`🧪 prompt_design.md`](docs/prompt_design.md)
+- [`🔐 openai_api_setup.md`](docs/openai_api_setup.md)
+- [`📦 tools_installation.md`](docs/tools_installation.md)
+- [`🧩 system_compatibility.md`](docs/system_compatibility.md)
+
+### 🤖 Casos de Uso Reais com IA Generativa
+
+- [`faq_generator.py`](real_use_cases/faq_generator.py)
+- [`sentiment_analyzer.py`](real_use_cases/sentiment_analyzer.py)
+- [`code_generator.py`](real_use_cases/code_generator.py)
+- [`interview_bot.py`](real_use_cases/interview_bot.py)
+- [`text_to_json.py`](real_use_cases/text_to_json.py)
+- [`blog_writer.py`](real_use_cases/blog_writer.py)
+- [`Interface Streamlit`](real_use_cases/app.py)
+
+### 🔗 LangChain & IA com Memória
+
+- [`chatbot_streamlit.py`](langchain/chatbot_streamlit.py)
+- [`memory_examples.py`](langchain/memory_examples.py)
+
+### 🎛️ Prompt Playground (UI Visual)
+
+- [`app.py`](streamlit_app/app.py)
+- [`requirements.txt`](streamlit_app/requirements.txt)
+
+### 🧩 Diagramas e Visualizações
+
+- [`ascii_architecture.md`](assets/ascii_architecture.md)
+
+### ⚙️ Workflows e Integração
+
+- [`.github/workflows/ai_pipeline.yml`](.github/workflows/ai_pipeline.yml)
+
+---
+
+## 📁 Estrutura do Projeto
 
 ```bash
 /prompt-engineering-lab/
 ├── README.md
+├── .env.example
+├── requirements.txt
 ├── docs/
 │   ├── introduction.md
 │   ├── prompt_design.md
 │   ├── openai_api_setup.md
-│   ├── langchain_basics.md
-│   ├── ai_automation_examples.md
 │   ├── tools_installation.md
 │   └── system_compatibility.md
 ├── prompts/
 │   ├── basic_examples.md
 │   ├── advanced_patterns.md
 │   └── real_world_cases.md
-├── automations/
-│   ├── email_writer.py
-│   ├── data_cleaner.py
-│   ├── pdf_summarizer.py
+├── real_use_cases/
+│   ├── faq_generator.py
+│   ├── sentiment_analyzer.py
+│   ├── code_generator.py
+│   ├── interview_bot.py
+│   ├── text_to_json.py
+│   ├── blog_writer.py
+│   ├── app.py
+│   ├── requirements.txt
 │   └── README.md
 ├── langchain/
 │   ├── chatbot_streamlit.py
@@ -62,36 +107,6 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
     └── workflows/
         └── ai_pipeline.yml
 ```
----
-
-🔗 Navegação Rápida
-
-* 📄 introduction.md
-
-* 🛠️ tools_installation.md
-
-* 🧩 system_compatibility.md
-
-* ✏️ basic_examples.md
-
-* 🤖 automations
-
-* 🔗 langchain
-
-* 🎛️ streamlit_app
----
-
-📘 Próximos módulos
-
-* ✅ Integração com documentos e vetores
-
-* ✅ Dashboards interativos com GPT
-
-* ✅ Automação com Zapier + Python
-
-* ✅ Prompt tuning com LangChain
-
-* ✅ Deploy online com Streamlit Cloud
 ---
 
 ## 💻 Compatibilidade de Sistemas
@@ -120,4 +135,4 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 ---
 
 
-<!-- RODAPÉ --> <p align="center"> <strong>“A boa engenharia de prompts transforma IA em soluções de verdade.”</strong><br> Desenvolvido por <a href="https://github.com/Emersoft76"><strong>@Emersoft76</strong></a><br> <em>Formado em Gerenciamento de Redes de Computadores – UNIP (Brasília/Brasil), 2009</em><br> <em>Soluções modernas com base sólida em redes, cloud, automação e inteligência artificial.</em> </p> 
+<!-- FOOTER --> <p align="center"> <strong>“From structured prompts to intelligent automation, connectivity is the key.”</strong><br> Desenvolvido por <a href="https://github.com/Emersoft76"><strong>@Emersoft76</strong></a><br> <em>Formado em Gerenciamento de Redes de Computadores – UNIP (Brasília/Brasil), 2009</em><br> <em>Soluções modernas com base sólida em redes, cloud, automação e inteligência artificial.</em> </p> ```
