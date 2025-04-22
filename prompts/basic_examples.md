@@ -14,13 +14,13 @@ O aprendizado de máquina está revolucionando o setor financeiro ao automatizar
 ```
 ---
 
-2. Geração de ideias de título
+### 2. Geração de ideias de título
 ```
 Sugira 5 títulos criativos para um artigo de blog sobre inteligência artificial na educação.
 ```
 ---
 
-3. Correção gramatical
+### 3. Correção gramatical
 ```
 Corrija os erros gramaticais no seguinte parágrafo:
 
@@ -28,14 +28,14 @@ Corrija os erros gramaticais no seguinte parágrafo:
 ```
 ---
 
-4. Tradução contextualizada
-5. Traduza para o inglês com linguagem informal:
+### 4. Tradução contextualizada
 ```
+Traduza para o inglês com linguagem informal:
+
 "Fala aí, beleza? Tava pensando em passar aí amanhã pra gente conversar."
 ```
----
 
-5. Tarefa com tom e estilo
+### 5. Tarefa com tom e estilo
 ```
 Escreva um e-mail formal para solicitar adiamento de prazo em um projeto, com tom educado e profissional.
 ```
