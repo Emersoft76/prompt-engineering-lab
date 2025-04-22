@@ -21,3 +21,5 @@ while True:
         break
     resposta = interview.run(user_input)
     print("Entrevistador:", resposta)
+
+# Requisitos: pip install langchain openai python-dotenv
