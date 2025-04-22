@@ -34,6 +34,16 @@ python memory_examples.py
 ```
 ---
 
+## 💻 Compatibilidade LangChain
+
+| Sistema Operacional | Suporte |
+|----------------------|:-------:|
+| Windows              |   ✅    |
+| Linux                |   ✅    |
+| macOS                |   ✅    |
+
+---
+
 ## 💡 Dica
 
 Experimente ajustar o temperature, usar modelos maiores (GPT-4), e criar fluxos com agentes e ferramentas.
