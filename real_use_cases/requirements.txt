@@ -2,10 +2,10 @@ streamlit
 openai
 python-dotenv
 
-## ✅ Como executar: 
-```
+✅ Como executar: 
+
 cd real_use_cases
 pip install -r requirements.txt
 streamlit run app.py
-```
+
 Acesse: http://localhost:8501
