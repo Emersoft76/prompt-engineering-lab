@@ -41,9 +41,9 @@ Responda à pergunta a seguir, e depois critique sua própria resposta para enco
 ---
 
 ## 🧩 4. Prompt por Exemplo (Few-shot)
-```
-🟢 Descrição: Fornece exemplos para guiar o modelo.
 
+🟢 Descrição: Fornece exemplos para guiar o modelo.
+```
 Corrija a gramática das seguintes frases:
 
 Entrada: "Eu vai no mercado ontem."
