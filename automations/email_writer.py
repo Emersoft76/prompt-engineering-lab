@@ -29,4 +29,3 @@ if __name__ == "__main__":
     resultado = generate_email(assunto, estilo)
     print("\n--- E-mail gerado ---\n")
     print(resultado)
-```
