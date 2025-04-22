@@ -32,3 +32,4 @@ streamlit run app.py
 | Linux     | ✅ Suporte total (Ubuntu/Debian)         |
 | MacOS     | ✅ Similar ao Linux (com Homebrew)       |
 ```
+---
