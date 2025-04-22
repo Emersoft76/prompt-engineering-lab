@@ -1,4 +1,4 @@
-**Script simples para gerar e-mails automáticos via OpenAI**
+# Script simples para gerar e-mails automáticos via OpenAI 
 
 import openai
 import os
