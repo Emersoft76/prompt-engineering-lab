@@ -121,6 +121,6 @@ Resposta técnica clara, mencionando O(1) como complexidade.
 
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
-* Prompt Engineering Guide
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 * Papers: "Chain-of-Thought Prompting Elicits Reasoning in LLMs", "Self-Refine: Iterative Refinement with Self-Feedback"
