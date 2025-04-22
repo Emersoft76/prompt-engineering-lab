@@ -1,4 +1,4 @@
-**Resume PDFs com OpenAI**
+# Resume PDFs com OpenAI
 
 import openai
 import os
@@ -28,4 +28,4 @@ if __name__ == "__main__":
     print("\nResumo gerado:\n")
     print(resumo)
 
-Instale a dependência adicional: pip install PyPDF2
+# Instale a dependência adicional: pip install PyPDF2
