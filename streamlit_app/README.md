@@ -24,12 +24,12 @@ streamlit run app.py
 * Retorno em tempo real com streaming (em breve)
 ---
 
-## 💻 Compatibilidade
-```
-| Sistema   | Status                                    |
-|-----------|-------------------------------------------|
-| Windows   | ✅ Suporte total (via cmd ou PowerShell) |
-| Linux     | ✅ Suporte total (Ubuntu/Debian)         |
-| MacOS     | ✅ Similar ao Linux (com Homebrew)       |
-```
+## 💻 Compatibilidade da Interface
+
+| Sistema Operacional | Suporte |
+|----------------------|:-------:|
+| Windows              |   ✅    |
+| Linux                |   ✅    |
+| macOS                |   ✅    |
+
 ---
