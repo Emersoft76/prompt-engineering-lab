@@ -1,7 +1,7 @@
 # 🧠 Arquitetura do Projeto – Prompt Engineering Lab (ASCII)
 
 Este diagrama representa a estrutura geral do laboratório, conectando os principais componentes do fluxo com IA generativa.
-
+```
                     +------------------------------+
                     |    Usuário / Interface Web   |
                     |      (Streamlit App)         |
@@ -33,5 +33,6 @@ Este diagrama representa a estrutura geral do laboratório, conectando os princi
     | Scripts .py  |    | PDF Summarizer |    | Data Cleaner    |
     | Automations  |    | Email Writer   |    | Real Examples   |
     +--------------+    +----------------+    +-----------------+
+```
 ---
 
