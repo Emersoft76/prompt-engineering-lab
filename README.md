@@ -19,7 +19,7 @@
 ## 🧭 Sobre o projeto / About this project
 
 **PT-BR:**  
-Este laboratório foi criado para desenvolver e validar habilidades práticas em **engenharia de prompts**, uso de **IA generativa via API** e **automação com Python**. Inclui exemplos reais com OpenAI, integração com documentos, automações com LangChain e interface web com Streamlit.
+Este laboratório foi criado para desenvolver habilidades práticas em **engenharia de prompts**, uso de **IA generativa via API** e **automação com Python**. Inclui exemplos reais com OpenAI, integração com documentos, automações com LangChain e interface web com Streamlit.
 
 **EN:**  
 This lab is designed to build and validate hands-on skills in **prompt engineering**, **generative AI via API**, and **Python-based automation**. Includes real examples using OpenAI, document chains, LangChain workflows and Streamlit UI.
@@ -37,7 +37,8 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 │   ├── openai_api_setup.md
 │   ├── langchain_basics.md
 │   ├── ai_automation_examples.md
-│   └── tools_installation.md
+│   ├── tools_installation.md
+│   └── system_compatibility.md
 ├── prompts/
 │   ├── basic_examples.md
 │   ├── advanced_patterns.md
@@ -53,7 +54,8 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 │   └── README.md
 ├── streamlit_app/
 │   ├── app.py
-│   └── requirements.txt
+│   ├── requirements.txt
+│   └── README.md
 ├── assets/
 │   └── ascii_architecture.md
 └── .github/
@@ -62,19 +64,21 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 ```
 ---
 
-## 🔗 Navegação rápida
+🔗 Navegação Rápida
 
-* docs/ – Documentações bilíngues com instruções e guias
+* 📄 introduction.md
 
-* prompts/ – Exemplos e padrões de prompts para LLMs
+* 🛠️ tools_installation.md
 
-* automations/ – Scripts de automação com OpenAI
+* 🧩 system_compatibility.md
 
-* langchain/ – Fluxos com agentes e memória
+* ✏️ basic_examples.md
 
-* streamlit_app/ – Interface visual com Streamlit
+* 🤖 automations
 
-* assets/ – Diagramas e elementos visuais do projeto
+* 🔗 langchain
+
+* 🎛️ streamlit_app
 ---
 
 📘 Próximos módulos
@@ -89,5 +93,31 @@ This lab is designed to build and validate hands-on skills in **prompt engineeri
 
 * ✅ Deploy online com Streamlit Cloud
 ---
+
+## 💻 Compatibilidade de Sistemas
+
+| Ferramenta / Tecnologia | Windows | Linux (Ubuntu/Debian) | MacOS |
+|--------------------------|:------:|:----------------------:|:------:|
+| Python 3.10+             |   ✅   |          ✅           |  ✅   |
+| pip                      |   ✅   |          ✅           |  ✅   |
+| OpenAI API Key           |   ✅   |          ✅           |  ✅   |
+| LangChain                |   ✅   |          ✅           |  ✅   |
+| Streamlit                |   ✅   |          ✅           |  ✅   |
+| Git                      |   ✅   |          ✅           |  ✅   |
+| VS Code                  |   ✅   |          ✅           |  ✅   |
+
+---
+
+## 📘 Próximos módulos
+
+* ✅ Vetorização e embeddings com FAISS
+
+* ✅ Agentes com ferramentas externas (busca, código)
+
+* ✅ Chat com documentos PDF / TXT
+
+* ✅ Deploy em nuvem (Streamlit Cloud / HuggingFace Spaces)
+---
+
 
 <!-- RODAPÉ --> <p align="center"> <strong>“A boa engenharia de prompts transforma IA em soluções de verdade.”</strong><br> Desenvolvido por <a href="https://github.com/Emersoft76"><strong>@Emersoft76</strong></a><br> <em>Formado em Gerenciamento de Redes de Computadores – UNIP (Brasília/Brasil), 2009</em><br> <em>Soluções modernas com base sólida em redes, cloud, automação e inteligência artificial.</em> </p> 
